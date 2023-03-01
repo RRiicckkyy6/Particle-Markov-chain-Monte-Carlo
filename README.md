@@ -5,4 +5,4 @@ Include codes that generate synthetic data and visualization code that plot the 
 Three specific versions of PMCMC algorithms are implmented:  
 Particle independent Metropolis Hastings (PIMH)  
 Particle marginal Metropolis Hastings (PMMH) with Gaussian random walk proposal  
-Particle gibbs (PG)  
+Particle Gibbs (PG)  
